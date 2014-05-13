@@ -2,7 +2,7 @@
 
 A Rack middleware for catching JSON parse errors and providing friendlier messages, all packaged up as a handy Railtie.
 
-Credit to [@djcp](https://github.com/djcp) at Thoughtbot for the original code as taken from [this blog post](http://robots.thoughtbot.com/catching-json-parse-errors-with-custom-middleware).
+Credit to [@djcp](https://github.com/djcp) at thoughtbot for the original code as taken from [this blog post](http://robots.thoughtbot.com/catching-json-parse-errors-with-custom-middleware).
 
 ## Installation
 
